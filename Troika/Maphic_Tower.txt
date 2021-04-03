@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-03-24T17:54:02-04:00
-
-====== Maphic Tower ======
-Created Wednesday 24 March 2021
-
