@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "89fb0d1064cf31b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ccb30e070104ea0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/The Search for Dawn.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3d771ed39039774",
+    "type": "split",
+    "children": [
+      {
+        "id": "49228e0c929d38b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e05eb8c9d6022eb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0dc21dac926e278",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287
+  },
+  "right": {
+    "id": "771fd8fd6b1030af",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d6988d531526971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e30dada7a384533",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/The Search for Dawn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "6ccb30e070104ea0",
+  "lastOpenFiles": [
+    "Sessions/The Search for Dawn.md",
+    "Troika/The Badlands/Goreane/The Index.md",
+    "Troika/Encephelon City.md",
+    "Troika/The Badlands/The Badlands.md",
+    "Sessions/Main.md",
+    "Troika/The Badlands/Goreane/The Middle.md",
+    "Useful Resources.md",
+    "World Events/The Savage Voyage.md",
+    "World Events/World Events.md",
+    "The Savage Voyage.md"
+  ]
+}

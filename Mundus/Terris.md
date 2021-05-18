@@ -1,0 +1,2 @@
+# Terris
+The landscape of Terris consists of your usual planes, forests, and hills. It is at the center of Mundus. A majority of the human population of Mundus resides here, but it is by far the most diverse melting pot. Terris is the center of trade, innovation, and experimentation. Societies that range from villages with only a few huts to massive cities. Most of advanced technology and magic is in the cities but the influence spreads out to the smaller settlements that help them with helping, agriculture, defense, etc.

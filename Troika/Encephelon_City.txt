@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-04-01T00:13:29-04:00
-
-====== Encephelon City ======
-Created Thursday 01 April 2021
-
-The "capital" city of Troika. A hub of trade, culture, and very odd people. The city is split into two sides. The west side is more logical and normal, the left side descends into borderline madness due to the effects of dimensional drifting.
