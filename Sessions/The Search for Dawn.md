@@ -48,7 +48,7 @@ Threaten drug dealer who pulls a gun
 See collapsed buildings from sand kings and other burrowers
 Go to Radii Tavern, joined by Gannon
 Assassination attempt by Des drow Arcane Assassin, hired by the MYthic Dawn out of fear
-Restrain Des and hire him to sleuth the mythic dawn
+Restrain [[Des]] and hire him to sleuth the mythic dawn
 Go to handle the job that the group overheard given to Gannon by the tavern keep, going back to the burrow through the building
 Fight 2 sand kings and then a Gibbering Abomination
 Divya attempts to communicate with it multiple times, failing to get through to a single consciousness
@@ -56,10 +56,32 @@ It disappears in an implosion, leaving behind only pieces not attached to it.
 The party goes on their way back to the Radii Tavern
 
 ## Session 3
+
+### Premise
 After "taking care of" the Gibbering Abomination (It actually seemed to teleport away, seemingly imploding and disappearing within itself), the party has yet more questions about the land of Troika. Last left off, the party is on it's way back to Radii Tavern to report it's success. Ultimately the party wants to head to the thumb to conclude it's investigation on the Mythic Dawn sect in this area. They want to know what is known about Makima and why they were after him, as well as what their goal is.
 
+### Problems
+- [x] Party needs to get paid (300 gold a piece)
+- [x] Dez needs to find the party and get any info he scoured for them
+- [ ] Lonia and the locals of [[Goreane]] want to get rid of the [[Encephelon City | Encephelon]] influence that exists within [[The Index]]. The people of Encephelon are encroaching upon Goreane, first taking over The Index and steadily expanding, pushing the outcasts of Troika out of the one place they have to call home. Locals have tried before but force of the Encephelon Guards is frightful indeed, and no one wants to get sent to the Black Brume Mountains.
+
 ### Potential Events
+- After a few days journey and more trouble than you'd anticipated you finally arrive together at the index. Slowly the shoddy hovels carved out of the walls transition into well constructured ones of various architectures and styles. Some brutal and harsh, with sleek walls of metal or polished stone, others bright and colorful with walls painted with murals that playfully curve and bend. The floor going from trodden sand to carved sandstone. The people transition in a similar way, from the down trodden and outlaws to some in plain yet clearly expensive clothing and those in similarly expensive bright expressive clothing. Both seeming cheerful and content. There is still the typical odd Goreane hovel and person but they are far less common. On top of that you see large men here and there, wearing blood red shirts that cut off at the sleeves, canvas pants, and leather boots typical of soldiers or guards. On their shirt is a dull pink vertically bisected circle. Most curiosly of all they all wear leather headbands that cover their eyes, set in the center of all of them is a large crystal. Each guard seems to have 1 of 3 colors, purple, green, or yellow. These new citizens seem to pay them no mind but the more typical Goreane 
 - Getting paid for the job - The party will most likely ask for payment from the bartender, Sev. He will redirect them to the [[The Index#Encephelon Guard Station | Encephelon Guard Station]]  in The Index, giving them a written note with a seal as proof of job completion.
+- The party will at least walk past [[The Index|#Lonia's Elixirs]]
 
 ### Actual Events
+- The party talks to Sev, he gives them a promissary note to go to The Index and get paid at the guard station.
+- Party gets 300gp a piece plus a 50gp bonus, discover that the guards are mostly mindless flesh golemns
+- Party goes to Lonia's shop, buys a few magic items, asks about the creature they encountered in the middle and Lonia directs them to [[Gerum Terrelio]].
+- Party goes to talk to Gerum, in his building covered with pipes with steam and magic auras coming out. His home has 2 vault doors, one in the back and one in the front for the protection of people in Goreane. He gives them information about Dimensional Flux and the creatures that it can create. He has a magical microscrope powered by divination magic in his workbench and shows the party that the flesh of the creatue the party gathered changes form significantly upon not being observed.
+- Gerum gives them a doc outlining the effects of dimensional flux
+- They asked Gerum and Lonia about the Ethereal Dawn flower, the last sighting was 500 years ago at what is now Encephelon City.
+- They meet Dez at "Bar" 
 
+## Session 4
+### Premise
+The party has a been given a new goal in going to [[Encephelon City]] to chase down the [[Ethereal Dawn]] as that was the last place one was supposedly spotted 500 years ago.  Once they finish their business
+### Potential Events
+- Party goes to [[The Thumb]]
+### Actual Events

@@ -5,6 +5,10 @@ A xenophobic Triton and zealot, from an island not far off the south-western coa
 ## Motivation
 Is looking for the source of the Ethereal Dawn after hearing about it for the first time on the surface
 
+## Notes and Ideas
+- 36 is a significant number (number of brothers adopted and killed)
+- Hyperborea is the name of an 
+
 ## The Catharsis of Divya
 An old book with seaweed pages and shell covers. It smells of iron and salt. The pages stick together and tear apart with a nauseating squelch. Upon opening this book, one realizes that no ink was used to write it, as all of the text is scribed with blood, enchanted such that it stays on the page. 
 	The Catharsis are autobiographies that all members of the Golden Sun have to write at some point in their life. They are meant to document the awakenings of those dormant aberrant spirits that have been shown the truth of their race, serving as a lesson for future generations.

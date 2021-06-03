@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "resources",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "6f6fce3fb4d5103d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,14 +97,14 @@
   "active": "6ccb30e070104ea0",
   "lastOpenFiles": [
     "Sessions/The Search for Dawn.md",
-    "Troika/The Badlands/Goreane/The Index.md",
-    "Troika/Encephelon City.md",
-    "Troika/The Badlands/The Badlands.md",
-    "Sessions/Main.md",
-    "Troika/The Badlands/Goreane/The Middle.md",
-    "Useful Resources.md",
-    "World Events/The Savage Voyage.md",
-    "World Events/World Events.md",
-    "The Savage Voyage.md"
+    "Sessions/Sessions.md",
+    "Troika/NPCS/Gerum Terrelio.md",
+    "Troika/NPCS/Goitreck Terralius.md",
+    "Troika/NPCS/Hookier Nocteye.md",
+    "Goitreck Terralius.md",
+    "Homebrew Mechanics/Dimensional Flux.md",
+    "Homebrew Mechanics/Combat System.md",
+    "Homebrew Items/edFlower.png",
+    "Homebrew Items/Ethereal Dawn.md"
   ]
 }

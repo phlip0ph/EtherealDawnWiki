@@ -9,3 +9,9 @@ The most civilized part of Goreane, though it's not saying particularly much. St
 ### Encephelon Guard Station
 - The station for the few guards that are stationed within Goreane. Most of them stand as guards to shops that are head quartered within Encephelon. They don't provide much assistance or service to the local populace. They do however, act as a bounty hub, posting jobs and taking/distributing payment. Though they will almost never perform the jobs themselves unless it affects the Index or is a direct threat to encephelon.
 - See [[Encephelon City#Guards]] for information on the guards, their ability, and their appearance.
+
+### Flux Research Station - Goreane
+
+- Get occasional help from Lonia (this is what made Lonia Lonia in the first place), sending her in to retrieve archeleogical things from closer to the center.
+- Researching the effects of dimensional flux on various things.
+- Headed by a gnome artifcer: [[Gerum Terrelio]]
