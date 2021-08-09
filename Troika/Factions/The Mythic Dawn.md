@@ -2,6 +2,8 @@
 
 A group of cultists under the impression that the Ethereal Dawn was in some way caused or created by the gods. Whether it was because a god was born, a god decided it should happen, or something else varies between the sects.
 
+## Origin
+[[The Mythic Dawn#Origin|Founded]] accidently by [[Bik Bok]] in The Thumb of Goreane. 
 ## Sects
 Goreane
 [[Encephelon City]]

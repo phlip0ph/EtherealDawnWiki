@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/The Search for Dawn.md",
+            "file": "Troika/Encephelon/The Root System.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resources",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/The Search for Dawn.md",
+                "file": "Troika/Encephelon/The Root System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "6ccb30e070104ea0",
   "lastOpenFiles": [
+    "Troika/Encephelon/Untitled.md",
+    "Troika/Encephelon/Swamps of Encephelon.md",
     "Sessions/The Search for Dawn.md",
+    "Troika/Troika.md",
+    "Troika/Maphic Settlements.md",
+    "Troika/Old Troika.md",
     "Sessions/Sessions.md",
-    "Troika/NPCS/Gerum Terrelio.md",
-    "Troika/NPCS/Goitreck Terralius.md",
-    "Troika/NPCS/Hookier Nocteye.md",
-    "Goitreck Terralius.md",
-    "Homebrew Mechanics/Dimensional Flux.md",
-    "Homebrew Mechanics/Combat System.md",
-    "Homebrew Items/edFlower.png",
-    "Homebrew Items/Ethereal Dawn.md"
+    "Troika/Encephelon/Encephelon City.md",
+    "Troika/Encephelon City.md",
+    "Troika/The Badlands/Goreane/The Skull.md"
   ]
 }

@@ -1,7 +1,6 @@
 # Sand Kings
 
 Dwellers of the Badlands, burrowing through the sand, picking off adventurers, travelers, and creatures alike by surprising them from below. If you happen to survive the initial attack be ready for the fight of your life as it controls the sand with it's weighted tail, and erodes even stone with it's caustic stinger.
-_____
 
 200 hp
 18 AC

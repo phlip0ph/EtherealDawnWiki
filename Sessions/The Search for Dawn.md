@@ -13,7 +13,7 @@ Since then many Mundians have been settling along the coasts of Troika, mainly t
 The ease of travel has unlocked a new golden age of magic and technology on both continents, with Troika trading its advanced magical secrets and Mundus its advanced technological ones, and of course the search for the cause of the Ethereal Dawn is more vigorous than ever.
 
 
-4 Months after [[The Great Transcontinental Teleportation]], The_Great_Transcontinental_Teleportation.md , as it is now known, you all sit, amidst this fantastical time, in a bar, The Bone Flea Bar, to be specific. A tiny and shitty hovel carved into a wall of the "pinky" of the gargantuan creature turned underground complex called Goreane. You have been led here out of wanderlust, curiousity, a quest, or exile. Whatever it may be, as if the strings of fate themselves are pulling upon you, you all look up from your doings at the same time, making eye contact.
+4 Months after [[The Great Transcontinental Teleportation]], as it is now known, you all sit, amidst this fantastical time, in a bar, The Bone Flea Bar, to be specific. A tiny and shitty hovel carved into a wall of the "pinky" of the gargantuan creature turned underground complex called Goreane. You have been led here out of wanderlust, curiousity, a quest, or exile. Whatever it may be, as if the strings of fate themselves are pulling upon you, you all look up from your doings at the same time, making eye contact.
 Can everyone please describe their characters.
 
 ### Potential Events 
@@ -81,7 +81,55 @@ After "taking care of" the Gibbering Abomination (It actually seemed to teleport
 
 ## Session 4
 ### Premise
-The party has a been given a new goal in going to [[Encephelon City]] to chase down the [[Ethereal Dawn]] as that was the last place one was supposedly spotted 500 years ago.  Once they finish their business
+The party has a been given a new goal in going to [[Encephelon City]] to chase down the [[Ethereal Dawn]] as that was the last place one was supposedly spotted 500 years ago.  Once they finish their business at the thumb, they will most likely be headed there.
+The leader and founder of [[The Mythic Dawn]] will be an unexpected character, whom for now, seems to have innocent intents.
 ### Potential Events
 - Party goes to [[The Thumb]]
+- The Thumb is largely abandoned, the buildings decrepit and uninhabited except for pest and some dangers that live their lives see [[The Thumb#The Ruin Town]]
+- Get to see how poorly some of these people live, essentially like the hollows of dark souls. [[The Thumb#The Ruin Town]]
+- Find their way to [[The Thumb#Mythic Dawn Head Quarters]]
+- Probably talk to a few locals who can give them some background on The Mythic Dawn as well as what's inside The Head
+- Talk to Bik Bok
+- Possibly go inside The Head with Bik Bok
 ### Actual Events
+- See a portal toilet
+- See the gate being built that is going to block the index from the thumb
+- hollow man Killroy in the thumb is given a black mushroom
+- See some of the Death Sprites
+- Get to the Mythic Dawn headquarters
+- Talk to bikbok who tells them how he accidently started the mythic dawn
+- Talked to Imi, priest of the mythic dawn and learn a bit about how the other sects started
+
+## Session 5
+### Premise
+The party has made it to the headquarters of [[The Mythic Dawn]] and seem to have uncovered, somewhat disappointedled, [[Bik Bok#Founding The Mythic Dawn | its origins]] as an accidental cult created by Bik Bok. The last time they talked briefly with him about his purpose here as well as with a supposed priest of his cult. Following [[Des]], they seek to speak to Bik Bik one more time to clarify a few things, mainly to talk about his seemingly innate resistance to [[Dimensional Flux]] before moving on with their business in [[Encephelon City]].
+
+### Potential Events
+- Party goes to talk to bikbok
+- Bikbok takes the party into the head
+- See the city
+- See the death sprites everywhere
+- See the disfigured statues everywhere
+- see the power channels
+- see the power station
+- find exhausted everlight
+### Actual Events
+Pretty much the potential events, the bear also got accidently drugged and the party got a taste of bik bok's 4th dimensional abilities.
+
+## Session 6
+### Premise
+The party, satisfied with their conversation with Bik Bok (or at least gotten everything they could from him) and walking away with a few data splints and a drained everlight, are finally finished with their business in Goreane. 
+
+### Potential Events
+
+- Leave Goreane
+- Short trek through the remaining of the BadLands
+- Reach the edge of the Swamps of Encephelon, sometimes known as the Twilight Swamp
+- Go through the twilight swamp
+- Come across abandoned structures, maybe try to loot them
+- Come across an abandoned tunnel or a few that lead into the Oubliette
+- Maybe come across some old troikan artifacts as many things get lost in the swamp for a very long time
+- Mindflayer Oozes?
+- Come across the wizard of ooze.
+- Poisonous Fumes
+- Giant Dungeon Tree with vegepygmies, giant spider who leads them Vhera, ochre slime jellies
