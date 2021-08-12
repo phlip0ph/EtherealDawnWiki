@@ -1,0 +1,1 @@
+A small smooth orb, roughly the size of a tennis ball. It gives off a constant cool mist and crackles lightly like melting ice. Constant concentration causes the orb to freeze surface liquids in a 15 foot radius of the caster. Breaking the orb results in an explosion of frost that does 6d6 cold damage (Con save) in a 15 ft radius.

@@ -133,3 +133,52 @@ The party, satisfied with their conversation with Bik Bok (or at least gotten ev
 - Come across the wizard of ooze.
 - Poisonous Fumes
 - Giant Dungeon Tree with vegepygmies, giant spider who leads them Vhera, ochre slime jellies
+
+## Session 7
+### Premise
+The party has begun their journey to Encephelon City, leaving the Badlands. They wade through the edge of the Twilight Swamp, trying their best to understand this new and unfamiliar environment. Encountered the wizard of ooze, who gave them a little more context and Divya some passing advice.
+
+	Last we left of, you had finished up your business in the Badlands. Satisfied that you have found all you could about the Ethereal Dawn as well as the conclusion of the local conflict with the Mythic Dawn, you made your final trip back through The Thumb and saw the sun for the first time in weeks. After a trek through what was left to travel of the Badlands, you reached the edge of the Swamps of Encephelon. Tall trees stretch into the skies overheard, the thick canopy they create blocks out almost all of the sunlight, leaving the area dimly lit by the faint twilight like glow of bublous blooms that hang from vines all across the swamp. Vile muck, ooze, and gas threatens trap you at all times. Dilapidated and sunken structures litter the place, falling apart and into ruin as if the swamp itself wants to consume all who do not belong. In one such structure (or rather two?), you encountered the "Wizard of Ooze" who gave you a little more context on the world you're in and some of the beings you've met, cautioning you somewhat on what lies ahead as well. Now you stand before an impossibly vast tree, craning your neck up is not enough to witness the top and looking left and right gives you little context to it's width, almost as if standing at the base of a mountain.
+
+### Potential Events
+- Go into Elder Tree Enter the root system
+	- Encounter Gnarl (Fight and traps)
+	- Encounter Moldie tribes
+	- Encounter one of Noskil's nests
+		- Be able to loot some dead bodies
+			- [[Freeze Orb]]
+			- Potions
+			- Scrolls and maybe wands
+			- Money
+			- Random minor magic items
+		- If the party makes too much noise they'll attract and fight on of Noskil's children
+	- Come across a sunken corridor, flooded by toxic ooze. Strange because it seems that most ooze that runs into the root system actually comes out as clean water. Strong magical energies emit from it
+- Cross the swamps
+	- Will clearly take awhile unless the party has some way to effectively travel across the surface
+	- Can try and search other ruins and sunken things, eventually coming across a freeze orb
+	- [[Freeze Orb]] will greatly help surface travel as you can walk across the surface of the mub
+	- Come across and fight some ooze-choked
+		- Fall into the root system anyway by getting pulled by ooze-choked (LMAO)
+Divya
+Ele
+Lesia
+Makima
+
+Go left
+
+Threw your guide to the spiders
+
+### Actual Events
+Went into the root system
+Ecnounterered Gnarl trap
+Encounter Moldie Tribe
+Stay in inn
+Understand them by taking crack
+Talk to Moldie Elders
+Learn Ethereal Dawn is buried under the swamp maybe?
+Get guide
+Go through the root system for a time following guide
+Guide takes them to spider Den
+Fail stealth check
+Guide is thrown to the spiders, unknown fate for now
+End session
