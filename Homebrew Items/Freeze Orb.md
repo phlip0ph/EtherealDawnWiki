@@ -1,1 +1,11 @@
+# Freeze Orb
 A small smooth orb, roughly the size of a tennis ball. It gives off a constant cool mist and crackles lightly like melting ice. Constant concentration causes the orb to freeze surface liquids in a 15 foot radius of the caster. Breaking the orb results in an explosion of frost that does 6d6 cold damage (Con save) in a 15 ft radius.
+
+## Transformation into a repel orb
+	You watch as the deranged old man before you closely studies the orb, prodding it hear and there, occasionally summoning an illusory tool to take a measurement here and there, shifting his focus between the orb, his sprawled out notes, and whatever thoughts are running through his head.
+	After doing this for awhile you observe a eureka moment as he begins to franctically scribble across various notes before carelessly tearing one of the pages he was just observing into smaller pieces, scribbling runes on the back that begin to glow with a faint grey aura as he nears the end of his writing.
+	Alatar takes the torn strip with runes, wrapping it around the small orb. You hear the faint crackle of the orb grow to a loud shattering, as if the enchantment of ice itself is violently melting. The cool mist that hangs off the orb at all times begins to fade as runic paper begins to glow brighter and merge with the orb. The color of the orb changes from the light, icy blue, to a cold gray with a center of swirling liquids of black, brown, and blue that never seem to mix no matter how much they collide. Reminiscient of oil mixing with water. 
+	After a minute the reaction is over, and Alatar is left standing with an orb the same size as the last, though icy blue has changed to a murky grey, the cool mist replaced with a constant sweat that coats the orb, and the crackle of ice with a light and continuous swishing.
+	
+# Repel Orb
+A small smooth orb, roughly the size of a tennis ball. It has a constant sweat on it that makes it somewhat slippery to hold and a perpetual swishing can be heard from the orb. Constant concentration causes the orb to repel all external liquids 15 foot radius of the caster. Breaking the orb results in an explosion liquid repelling magic (Con save) in a 15 ft radius, forcing the liquids out of creatures in range and causing them to take 6d10 force damage as their fluids are forcibly expelled from their bodies.

@@ -170,7 +170,7 @@ Threw your guide to the spiders
 
 ### Actual Events
 Went into the root system
-Ecnounterered Gnarl trap
+Encountered Gnarl trap
 Encounter Moldie Tribe
 Stay in inn
 Understand them by taking crack
@@ -182,3 +182,53 @@ Guide takes them to spider Den
 Fail stealth check
 Guide is thrown to the spiders, unknown fate for now
 End session
+
+## Session 8
+### Premise
+The party is halfway through their journey towards Encephelon City, crossing through the fetid Swamps of Encephelon. They've managed to make their way into [[The Root System]] of the swamp, came across some strange sightings (tiny house, strange trails, etc), a few overgrown gnarls, and a small village of moldies, whom the party was able to communicate with well enough and procure a guide for themselves, though it appears that they are not much longer for this world.
+
+	Last we left off, you managed to make your way into the Root System of the Swamps of Encephelon. You feel an ancient yet primitive conciousness here that appears to permeate through most of the life the area. On your journey you've found evidence of life and many oddities. Living and rather aggresive wood, a tiny farmhouse, near invisible spider webs that seem to run most of the root system, as well as a small village of peoples made entirely of mold. You managed to procure a guide from the moldies, communicating on the same level as their crack addled minds, though it seems that won't matter for much longer given that he was just thrown to the spiders that you have just awoken.
+	
+
+### Potential Events
+- Contend with the spiders. They willl try their best to keep the guide and as many of the party members as they can manage. They will either have to bring them something else, trade for a party member, fight, or convince them.
+- Be able to loot some dead bodies
+	- [[Freeze Orb]]
+	- Potions
+	- Scrolls and maybe wands
+	- Money
+	- Random minor magic items
+- Encounter a sunken corridor that the tree seemingly enveloped. The walls are reinforced with advanced protective glyphs, making it neigh unbreakable (like dc 25 strentgh check to break). The corridor is about 8 feet wide, made of smoothly carved and fitted stone. An investigation check of DC 14 reveals that there are carvings and grooves in the stone similar to the ones seen in Goreane.
+- Human research station, consists of 3 people. One of which is Alatar, a small kobold named Chex, and Berenike. Alatar is doing research and attempting to get further down into the depths below the swamp. He hired Berenike as a guard for the time and Chex is a small kobold that is tagging along with Berenike in the hopes that he'll become big and strong like him.
+- Troglodytes, live in small and rickety village. Probably a population of around 10. They just seem to be living their life and are hostile towards outsiders approaching.
+
+### Actual Events
+- Line up with potential events except for the troglodytes
+- Alatar agreed to send Berenike with the party to kill the spiders and acquire a few freeze orbs for them
+
+## Session 9
+### Premise
+The party made a little more progress through the root system. They were trapped by the spiders' nest that they accidently awoken, becoming targets for the Children of Noskil. They  agreed that in exchange for their safe passage throughout the rest of the Root System, they would trade the lives of one of the civilizations nearby who defend themselves. They were given the options by their moldie guide of, a human research group, a tribe of troglodytes, a moldie tribe, or attempting to happen across some travelers. The party opted to take on a human research group given that they were the most unnatural part of the Root System. Upon reaching the nearest research center they came across Alatar, along with Berenike The Slayer and a small kobold named muddy brown Chex. Alatar is apparently looking for something beneath the muck of the swamps and has decided to hole up and do research here given that digging is illegal in Encephelon City and technically in the entirety of the Swamps of Encephelon, though no one is exactly watching in the middle of the swamps, right? The party reached an agreeement with Alatar and Berenike, getting a few freeze orbs from one of the children of noskil's nest off of a few bodies so that they can be modified repel liquids.
+
+### Potential Events
+- Go into spider den
+	- [[Den of Noskil Spawn]]
+- Alatar uses [[Freeze Orb]] to create repel orbs
+	- [[Freeze Orb#Transformation into a repel orb]]
+- Children of Noskil will become aware of the betrayal sooner or later. Sooner if the party fails to stealthily retrieve the freeze orbs from the den, then the Children will make attempts on the party for the rest of their time in the root system.
+- Assuming the party is able to get out of the altercation alive, Alatar will then want to proceed with his research. He'll use the orb to travel into the sunken corridor that the party came across before.
+	- 
+- If the party decides to continue on without Alatar, the guide will lead them out of the Root System and close to Encephelon City
+	- [ ] Description for Encephelon City exterior
+	- [ ] Encounter with either Troglodytes or Gnarls, or perhaps a Mythic Dawn sect
+	- [ ] Interesting Encounter descriptions
+		- [x] Pools of amber (and amber-encased creatures/items)
+		- [ ] Troglodyte Ritual
+		- [ ] Spider Mimicry
+		- [ ] Sacrificial Alter
+		- [ ] Ancient Shrine to Noskil
+		- [x] Gnarl Encounter
+
+2 wands
+A freeze orb
+A enchanted gauntlet

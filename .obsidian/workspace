@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6ccb30e070104ea0",
+        "id": "d640b71b21d8c84c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Troika/Encephelon/The Root System.md",
+            "file": "Sessions/The Search for Dawn.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ecded157ada8499b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Homebrew Items/Freeze Orb.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,14 +79,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troika/Encephelon/The Root System.md",
+                "file": "Sessions/The Search for Dawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,17 +105,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6ccb30e070104ea0",
+  "active": "d640b71b21d8c84c",
   "lastOpenFiles": [
-    "Troika/Encephelon/The Root System.md",
     "Sessions/The Search for Dawn.md",
-    "Troika/Maphic Settlements.md",
-    "Troika/The Broken Coast.md",
-    "Troika/Encephelon/Swamps of Encephelon.md",
-    "Homebrew Items/Crack.md",
     "Homebrew Items/Freeze Orb.md",
-    "Troika/Old Troika.md",
-    "Troika/Troika.md",
-    "Troika/The Woods.md"
+    "Troika/Encephelon/The Root System/Encounters/Den of Noskil Spawn.md",
+    "Troika/Encephelon/The Root System/Loot Table.md",
+    "Troika/Encephelon/The Root System/Encounters/Amber Pools.md",
+    "Troika/Encephelon/The Root System/Inhabitants/Noskil and Their Children.md",
+    "Troika/Encephelon/The Root System/Inhabitants/Troglodytes.md",
+    "Troika/Encephelon/The Root System/Inhabitants/Moldies.md",
+    "Troika/Encephelon/The Root System/Inhabitants/Gnarls.md",
+    "Sessions/Sessions.md"
   ]
 }
