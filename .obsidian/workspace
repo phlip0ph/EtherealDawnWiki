@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d640b71b21d8c84c",
+        "id": "6a1cbc743fea3072",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/The Search for Dawn.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ecded157ada8499b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Homebrew Items/Freeze Orb.md",
+            "file": "Troika/The Black Brume Mountains/Angband.md",
             "mode": "source"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Table",
+                "query": "The black brume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/The Search for Dawn.md",
+                "file": "Troika/The Black Brume Mountains/Angband.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +94,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d640b71b21d8c84c",
+  "active": "6a1cbc743fea3072",
   "lastOpenFiles": [
+    "Troika/The Black Brume Mountains/Angband.md",
+    "Homebrew Mechanics/Combat System.md",
+    "Sessions/Angband.md",
+    "Troika/The Black Brume Mountains/The Black Brume Mountains.md",
+    "Troika/The Knives of God/The Blade of Glamdring.md",
+    "Troika/Troika.md",
+    "Sessions/Sessions.md",
+    "Sessions/Untitled.md",
     "Sessions/The Search for Dawn.md",
-    "Homebrew Items/Freeze Orb.md",
-    "Troika/Encephelon/The Root System/Encounters/Den of Noskil Spawn.md",
-    "Troika/Encephelon/The Root System/Loot Table.md",
-    "Troika/Encephelon/The Root System/Encounters/Amber Pools.md",
-    "Troika/Encephelon/The Root System/Inhabitants/Noskil and Their Children.md",
-    "Troika/Encephelon/The Root System/Inhabitants/Troglodytes.md",
-    "Troika/Encephelon/The Root System/Inhabitants/Moldies.md",
-    "Troika/Encephelon/The Root System/Inhabitants/Gnarls.md",
-    "Sessions/Sessions.md"
+    "Sessions/Main.md"
   ]
 }

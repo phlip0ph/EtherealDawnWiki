@@ -7,5 +7,25 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "labyrinthian",
+    "Brume",
+    "Angband",
+    "anarchal",
+    "Goreane",
+    "Encephelon",
+    "patchworked",
+    "lmao",
+    "Everytime",
+    "Everytime",
+    "reroll",
+    "roleplay",
+    "oldschool",
+    "roguelike",
+    "dwarven",
+    "BBEGs",
+    "homebrew"
+  ]
 }
