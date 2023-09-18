@@ -1,2 +1,7 @@
 # Everlight
 
+Everlights appear as orbs, small enough that they can be grasped in ones hand. They are warm to touch, as if one were bathing in the sun, and they constantly emit a bright and warm light (15ft bright, another 15ft dim) of similar quality to sunlight, insofar as being able to support photosynthesis.
+Everlights can serve as near infinite power sources, given that one is knowledgeable of how to harness it's power.
+When attuned, becomes whatever tool that the user needs, it can do this 3 times per day, and the user rolls a D20 (DC 10) to determine if they have proficiency with the tool at the time if they do not already. The user must have knowledge of the tool to create it, so they may conceptualize something or create an existing tool but they cannot for example, create a key that they have not studied in detail. It cannot become a weapon or tool of violence, such as a torture device, without a Foci, when placed in a Foci it deals 1d10+2 radiant damage, has a +2 to hit, and the user is proficient with it if they have proficiency with the weapon Foci type.
+
+It is said that there are artifacts that are capable of forcing everlights into powerful weapons, though such artifacts are nearly as rare as everlights themselves.

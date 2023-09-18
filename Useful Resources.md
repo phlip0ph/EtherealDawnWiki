@@ -13,3 +13,10 @@
  [Madness](https://roll20.net/compendium/dnd5e/Madness#content)
  
  [D10000 Wild Magic](https://centralia.aquest.com/downloads/NLRMEv2.pdf)
+
+[Map Drawing tool](https://probabletrain.itch.io/dungeon-scrawl)
+
+[Dungeon Generation Tool](https://donjon.bin.sh/d20/dungeon/)
+
+[Dungeon Exploration Rules](https://theangrygm.com/exploration-rules/)
+[Overworld Travel Rules](https://multiplenerdgasms.com/improving-exploration-dnd/)

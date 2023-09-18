@@ -27,9 +27,9 @@ Also feel free to come to me with a homebrew class and feats and we'll find a wa
 
 ### Combat & Death
 As you can guess this episode is going to be featuring you dying, probably a lot. We can discuss exactly how this is going to work but my current ideas are:
-- Everytime you die, keep the same character, lose some number of your items and skills, and reroll stats
-- Everytime you die, roll a completely new character
-- Everytime you die, keep the same character, lose items and skills, reduce stats instead of reroll (this would work if all player chars were BBEGs)
+- Every time you die, keep the same character, lose some number of your items and skills, and reroll stats
+- Every time you die, roll a completely new character
+- Every time you die, keep the same character, lose items and skills, reduce stats instead of reroll (this would work if all player chars were BBEGs)
 
 There will also be a heavier focus on combat and dungeon crawling instead of roleplay compared to previous ED episodes so that we can better flesh out the system, but roleplay will still be relevant and there will still be progress towards uncovering the secrets of Troika and it's past, same as always.
 
@@ -39,3 +39,56 @@ There will also be a heavier focus on combat and dungeon crawling instead of rol
 Here's some general lore to help with character creation and such.
 - Angband is only well known within the heavily populated areas of Troika (Encephelon City, Knives of God specifically the dwarven cities, Goreane), and even then, it is generally seen or thought of as a place of story and legend, especially among younger generations and less densely populated areas who have not had the experience of a BBEG or similar.
 - People outside Troika are almost completely unaware of Angband, those few who are only know of it through story as well, even fewer know of the actual existence of the place.
+
+## Random Secret Encounters
+
+## Session 1
+- [x] Introduce characters
+	- [x] Conduit
+	- [x] Mishah
+	- [x] Brian
+
+> Both of you have been led through the volcanic hell that is Black Brume Mountains. Allowed no food, and no water throughout the entirety of the lung scorching, eye watering journey. You know that teleportation to at least the outside of the prison is possible and within the capabilities of your captors, but you've been allowed no such convenience. You're almost relieved when you cross a threshold of the unstable volcanic rock that has been paining you for a few hours now, and see the end of your hellish journey in sight. Angband, the mysterious fortress and prison of the Old Troikans. It towers above you quite menacingly, its symmetrical walls, towers and spires seem to be flowing with the very lava that surrounds it. Whether the lava flows from it or into it, you cannot be sure. You cross the surrounding pool of lava via a sunken bridge, a good 10 feet below the level of the lava that you're not entirely sure will not just suddenly decide to flow over you and end the party before it starts.
+> Finally, after a last few grueling minutes, you stand before your destination, the heat more intense than ever. A vicious portcullis of crudely melded metals towers before you, you can see nothing through it's seams but darkness and an ominous glow not entirely dissimilar to the lava that currently surrounds you but certainly of a different quality. With seemingly no indication from you or your captors, it shudders and begins to rise, nothing still to be seen but the faint orange glow surrounded by darkness as if it emits it. You feel the debilitation beams of the flesh golems that have been escorting you weaken as they give you a telekinetic push into the darkness.
+> You stumble and fall, and for a brief second, you could swear it felt like falling through a void. But when you open your eyes, you see that you stand in a square room, you do a sweep, no sign of your entrance anywhere behind you. In fact, there's no sign of entrance anywhere in this room, blackened bricks make up the walls and curve away into the ceiling. Small rivers of lava bubble up through some of the tiles, giving you just enough light to see that you're not alone.
+
+#### Dying
+> You fall to ground, unable to move. You suspect you'll begin to black out now, and despite not entirely wanting too, you begin to relax into death, letting the feeling that your time is up wash over you, this is it... Umm, this is it?...
+> You open your eyes and are surprised to find that it takes no more effort than before. Your body certainly still hurts, you are still incapable of moving, blood still pours from the wounds on your body, and yet you seem to come no closer to death. You lay confused, only able to observe, and then you feel 
+- [ ] Probably kill them once at the end
+- [ ] Build floor 1 map, encounters, loot table
+	- [x] Map
+	- [ ] Encounters
+		- [ ] Another party of a similar fate to the players
+		- [ ] Convert donjon encounters
+		- [ ] Probably some hints of what Angband used to be/do in secret corridors and such
+	- [x] Loot Table - for now just use donjon generation
+		- [x] Table of potions and poisons
+		- [x] Random magical item generator
+- [x] Agree on how proficiency works
+### Future Ideas
+- Slice of elemental plane of fire that originates here
+- Progress between floors is locked, have to find the key or whatever that locks/guards it.
+
+## Session 2
+-
+### Intended Events
+#### Linia Stairwell
+- The bricks that form the end of the hall appear to be flesh colored
+- Pressing upon the bricks, they feel almost like flesh but not quite right, there is no warmth and there's a certain stiffness to it, as if that of a dead body. But it seems that's not the case as the wall trembles under your touch before beginning to envelope you.
+- Inside you stand in a room consisting of same flesh like bricks, gently lit on all sides despite a a lack of any sources. Slowly on the ceiling, a massive eye opens, and the room begins to tremble, shelves rise up through the floors, filled with potions, scrolls, weapons, armor, and all manner of materials both arcane and not. A tremble reverberates through your bodies, resulting in a voice that seems to come from everywhere. "Welcome to my shop"
+- Players will be able to see and use souls after their first death
+
+#### Actual events
+Dev died
+Found Linia
+
+## Session 3
+### Need to plan
+- Penalties for Dez
+- Floor 2
+- soul currency
+- implement sanity
+- [ ] Plan some more crafted encounters
+- [ ] Come up with name for Old Troikan metal and how it works/why
+- [ ] read mutants and masterminds combat to try to change chimera combat

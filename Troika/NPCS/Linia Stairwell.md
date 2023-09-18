@@ -1,0 +1,2 @@
+# Linia Stairwell
+Linia was of course, one of the many Linias. Advanced golems created by the translocation savant and alchemist [[Linia Stirwell(s) | Linia Stirwell]]. This Linia somehow found it's way into [[Troika/The Black Brume Mountains/Angband | Angband]], becoming deformed by the soul bending being within, being transmogrified into a room that freely moves throughout the structure. Despite it's unfortunate form, it has not forgotten it's purpose, it's thirst for knowledge, experimentation, and currency. It's shop is itself, and the currency is souls.

@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"type":"file","file":"Foundational World Building/Magick.md","id":"a709d544297af72a","x":230,"y":157,"width":250,"height":60},
+		{"type":"file","file":"Foundational World Building/Laws of The Universe.md","id":"8646c51fb1d09ac9","x":-99,"y":158,"width":250,"height":82},
+		{"type":"file","file":"Foundational World Building/The Weave.md","id":"6cb7bea65caefdf1","x":-99,"y":-120,"width":250,"height":60},
+		{"type":"text","text":"Physical Forms","id":"c7ff6ce7fdaece24","x":-469,"y":156,"width":250,"height":60},
+		{"type":"file","file":"Foundational World Building/Birth of The Universe.md","id":"fe32aee101e66be9","x":-99,"y":-469,"width":250,"height":89},
+		{"type":"file","file":"Foundational World Building/The Great Weaver.md","id":"66e6601c46a5beea","x":-99,"y":-300,"width":250,"height":100},
+		{"type":"text","text":"Life","id":"0eea0c20490161ad","x":-880,"y":320,"width":250,"height":60},
+		{"type":"text","text":"Planetary Bodies","id":"253ad0ac5c8b4a59","x":-560,"y":320,"width":250,"height":60},
+		{"type":"file","file":"Foundational World Building/The Laws of Physics.md","id":"7d9b38a8eb489c42","x":-174,"y":680,"width":400,"height":50},
+		{"type":"file","file":"Foundational World Building/The Law of Regression.md","id":"bf285d614492f42a","x":-349,"y":449,"width":250,"height":80},
+		{"type":"file","file":"Foundational World Building/The Law of Causality.md","id":"ed407734106ce4b5","x":60,"y":449,"width":400,"height":80},
+		{"type":"file","file":"Foundational World Building/The Law of Form.md","id":"417c0de103d09491","x":560,"y":449,"width":250,"height":80}
+	],
+	"edges":[
+		{"id":"71fa824533c449e7","fromNode":"fe32aee101e66be9","fromSide":"bottom","toNode":"66e6601c46a5beea","toSide":"top"},
+		{"id":"e450637fcb6c9d2b","fromNode":"66e6601c46a5beea","fromSide":"bottom","toNode":"6cb7bea65caefdf1","toSide":"top"},
+		{"id":"46eb2c2f01547876","fromNode":"6cb7bea65caefdf1","fromSide":"bottom","toNode":"8646c51fb1d09ac9","toSide":"top"},
+		{"id":"1a1b52778ab3a8f8","fromNode":"6cb7bea65caefdf1","fromSide":"bottom","toNode":"a709d544297af72a","toSide":"top"},
+		{"id":"be937185fbfc4810","fromNode":"6cb7bea65caefdf1","fromSide":"bottom","toNode":"c7ff6ce7fdaece24","toSide":"top"},
+		{"id":"38d521659b10d60c","fromNode":"c7ff6ce7fdaece24","fromSide":"bottom","toNode":"0eea0c20490161ad","toSide":"top"},
+		{"id":"ac0ea41498de3bc5","fromNode":"c7ff6ce7fdaece24","fromSide":"bottom","toNode":"253ad0ac5c8b4a59","toSide":"top"},
+		{"id":"26c5758467537963","fromNode":"8646c51fb1d09ac9","fromSide":"bottom","toNode":"bf285d614492f42a","toSide":"top"},
+		{"id":"00af5f5654e03372","fromNode":"8646c51fb1d09ac9","fromSide":"bottom","toNode":"ed407734106ce4b5","toSide":"top"},
+		{"id":"e38d7d7ecebd99d6","fromNode":"bf285d614492f42a","fromSide":"bottom","toNode":"7d9b38a8eb489c42","toSide":"top"},
+		{"id":"6fe557f5cfecbcd7","fromNode":"ed407734106ce4b5","fromSide":"bottom","toNode":"7d9b38a8eb489c42","toSide":"top"},
+		{"id":"eb8551bfa2c34770","fromNode":"8646c51fb1d09ac9","fromSide":"bottom","toNode":"7d9b38a8eb489c42","toSide":"top"},
+		{"id":"3bad7ac69d657156","fromNode":"8646c51fb1d09ac9","fromSide":"bottom","toNode":"417c0de103d09491","toSide":"top"},
+		{"id":"76216b5900c5a27b","fromNode":"417c0de103d09491","fromSide":"bottom","toNode":"7d9b38a8eb489c42","toSide":"top"}
+	]
+}

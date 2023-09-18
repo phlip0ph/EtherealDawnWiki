@@ -1,0 +1,1 @@
+Magick is the direct result of manipulating the weave. Pulling strands of the weave and shaping them (as the [[The Great Weaver]] does, though no one knows that) allows one to bend reality to their will if they are able to create the create shapes. As a result, magick is able to bend all of the [[Laws of The Universe]] as in a way, it is the source of all of them.

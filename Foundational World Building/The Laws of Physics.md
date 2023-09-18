@@ -1,0 +1,1 @@
+The Laws of Physics are exactly as they are in the real world. Its origins are [[The Weave]] and [[The Law of Regression]].
